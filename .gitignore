@@ -1,0 +1,7 @@
+.deps/
+build/
+results/
+__pycache__/
+*.py[cod]
+abc.history
+/MEOW.pdf
